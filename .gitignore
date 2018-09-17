@@ -1,3 +1,12 @@
+model
+test.dat
+train.dat
+predictions
+bin/*
+*.model
+*.svmlearn
+svm_model
+svm_predictions
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

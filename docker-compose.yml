@@ -1,0 +1,8 @@
+version: '2'
+
+services:
+  svm-light-api:
+    build: ./
+    ports:
+      - "5001:3001"
+    tty: True
